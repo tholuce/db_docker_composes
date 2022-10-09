@@ -3,6 +3,7 @@
 
 ## List of db:
 1. Postgresql
+2. Mariadb.
 
 
 ## To do:
