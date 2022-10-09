@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+    db:
+        container_name: devmariadb
+        image: mariadb:10.6.4
+        restart: always
+        environment: 
+            - 'MARIADB_ROOT_PASSWORD=test123'
+        ports: 
+            - '3306:3306'
