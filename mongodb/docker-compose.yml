@@ -16,3 +16,4 @@ services:
         ports: 
             - '27018:8081'
         depends_on: 
+            - db
