@@ -1,9 +1,10 @@
 # Docker composes and related assets to build db container for dev usage
 
 
-## List of db:
+## List of databases:
 1. Postgresql
-2. Mariadb.
+2. Mariadb
+3. Mongodb
 
 
 ## To do:
