@@ -9,5 +9,5 @@
 
 ## To do:
 1. SQL server
-2. Mariadb / phpmyadmin
+2. Mariadb w/ phpmyadmin
 3. 
