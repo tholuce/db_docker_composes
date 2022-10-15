@@ -2,9 +2,10 @@
 
 
 ## List of databases:
-1. Postgresql
+1. Postgresql w/ pgadmin4
 2. Mariadb
-3. Mongodb
+3. Mongodb w/ mongo express
+4. Neo4j
 
 
 ## To do:
