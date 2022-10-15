@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  db:
+    container_name: devneo4j
+    image: neo4j:4.3.3-community
+    restart: always
+    ports:
+      - '7687:7687'
+      - '7474:7474'
+    # use localhost in connect URL because client and server in one container
+    # login with user neo4j and password is neo4j or test123
